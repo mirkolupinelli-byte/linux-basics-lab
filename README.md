@@ -8,6 +8,7 @@ This repository documents my first steps with Linux Server.
 - Managed files, permissions, and users
 - Configured SSH (systemd socket activation)
 - Connected remotely via SSH using NAT port forwarding
+- Set up SSH key-based authentication (ed25519)
 
 ## Goal
 Build solid Linux fundamentals for a future IT/sysadmin role.
