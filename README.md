@@ -9,6 +9,7 @@ This repository documents my first steps with Linux Server.
 - Configured SSH (systemd socket activation)
 - Connected remotely via SSH using NAT port forwarding
 - Set up SSH key-based authentication (ed25519)
+- Hardened SSH configuration (disabled password and root login)
 
 ## Goal
 Build solid Linux fundamentals for a future IT/sysadmin role.
