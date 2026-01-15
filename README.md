@@ -10,6 +10,7 @@ This repository documents my first steps with Linux Server.
 - Connected remotely via SSH using NAT port forwarding
 - Set up SSH key-based authentication (ed25519)
 - Hardened SSH configuration (disabled password and root login)
+- Built a simple Bash disk usage monitor script with logging
 
 ## Goal
 Build solid Linux fundamentals for a future IT/sysadmin role.
