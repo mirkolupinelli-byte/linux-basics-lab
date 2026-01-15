@@ -23,3 +23,8 @@ Learning project to practice Linux system administration basics.
 ## Example log output
 2026-01-15 09:48:02 - Disk usage on /: 14%
 2026-01-15 09:48:02 - ALERT: Disk usage high (14% >= 3%)
+
+## Related Linux concepts
+- Script executed by a non-root user
+- Admin actions handled via sudo
+- Log file stored in user home directory
