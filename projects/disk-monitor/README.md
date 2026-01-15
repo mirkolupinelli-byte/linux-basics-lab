@@ -14,7 +14,7 @@ Learning project to practice Linux system administration basics.
 - Logging to a file with `>>`
 
 ## Script logic (step by step)
-1. Set a threshold (e.g. 85%)
+1. Set a threshold (e.g. 3%)
 2. Read disk usage for `/`
 3. Extract `Use%` and remove `%`
 4. Write a timestamped status line to the log
